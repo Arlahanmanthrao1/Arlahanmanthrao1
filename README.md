@@ -1,9 +1,8 @@
 # 💫 Hi 👋, I'm Hanmanth Rao
 
-- 🌱 **I’m currently learning:** Cloud (AWS and Azure)
+- 🌱 **I’m currently learning:** Cloud (AWS)
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** arlahanmanthrao@gmail.com
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arla-hanmanth-rao-430968242/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arlahanmanthrao@gmail.com) 
